@@ -1,9 +1,7 @@
-###### Hello! My name is Ravi Tammana, and I'm a 2nd Year Computer Engineering Student @ UC Irvine specializing in Full-Stack Development and Data Analytics. 
+# Hello! My name is Ravi Tammana, and I'm a 2nd Year Computer Engineering Student @ UC Irvine specializing in Full-Stack Development and Data Analytics. 
 
-##### Here are some more links if you'd like to reach out or learn more about me:
-###### [Resume](https://drive.google.com/file/d/1oB2woCp5C-SelUqaCpFUCKz9fw0AQXxv/view?usp=drive_link])
-###### [LinkedIn](https://www.linkedin.com/in/ravi-tammana)
-###### [Email](tammanaravit25@gmail.com)
+###### Please feel free to reach out or learn more about me! View my [***LinkedIn***](https://www.linkedin.com/in/ravi-tammana), take a look at my [***Resume***](https://drive.google.com/file/d/1oB2woCp5C-SelUqaCpFUCKz9fw0AQXxv/view?usp=drive_link]), or contact me at my [***Email***](tammanaravit25@gmail.com).
+
 <!--
 **Raviteja-Tammana/Raviteja-Tammana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
