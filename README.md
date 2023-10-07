@@ -1,4 +1,4 @@
-![Welcome GIF](https://i.gifer.com/8CPR.gif)
+![](https://github.com/Raviteja-Tammana/Raviteja-Tammana/blob/main/welcome-images-server.gif)
 
 ### Hello! My name is ✨ Ravi Tammana ✨, and I'm a 2nd Year Computer Engineering Student @ UC Irvine specializing in Full-Stack Development 🕸️ and Data Analytics 🔢. 
 
